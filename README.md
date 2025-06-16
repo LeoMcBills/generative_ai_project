@@ -1,5 +1,5 @@
 # 🧠 Generative AI Project Template
-
+ 
 A production-ready template to help you kickstart and organize your Generative AI projects with clarity and scalability in mind.  
 Designed to reduce chaos in early development and support long-term maintainability with proven structure and practices.
 
